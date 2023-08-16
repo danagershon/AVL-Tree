@@ -6,8 +6,11 @@ Data Structures Course HW1 and HW2: AVL and AVL rank trees Implementation
 
 • AVL rank tree: generic AVL rank tree implementation
 
-provides also:
+AVL rank tree provides also:
 
 • Sum of k largest keys
+
 • Merging 2 sorted arrays
+
 • Merging 2 AVL trees
+
